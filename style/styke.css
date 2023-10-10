@@ -86,9 +86,9 @@ figure{
     background-color: rgb(38, 37, 37);
     grid-column-start: 2;
     grid-column-end: 3;
-    height: 175px;
-    padding: 2.5rem 0rem;
-    margin: 2.5rem 0rem;
+    height: 25%;
+    padding: 5rem 0rem;
+    margin: 5rem 0rem;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -112,8 +112,8 @@ figure{
 .title-a{
     grid-column-start: 2;
     grid-column-end: 3;
-    padding: 2rem 0rem;
-    margin: 2rem 0rem;
+    padding: 5rem 0rem;
+    margin: 5rem 0rem;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -141,9 +141,9 @@ figure{
 .title-b{
     grid-column-start: 1;
     grid-column-end: 2;
-    height: 250px;
-    padding: 2rem 0rem 2rem 1rem;
-    margin: 2rem 0rem 2rem 1rem;
+    height: 250px;  
+    padding: 5rem 0rem 5rem 1rem;
+    margin: 5rem 0rem 5rem 1rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -159,8 +159,8 @@ figure{
 
 .project{
     background-color: rgb(38, 37, 37);
-    padding: 0.5ren 0.7rem;
-    margin: 0.5rem 0.7rem;
+    padding: 1ren 0.7rem;
+    margin: 1rem 0.7rem;
     height: 85%;
     width: 25%;
     display: flex;
