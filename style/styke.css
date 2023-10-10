@@ -9,7 +9,7 @@
 }
 
 .filho {
-    font-size: 125%;
+    font-size: 150%;
     margin: 0.5rem;
     padding: 0.5rem;
     color: white;
@@ -17,12 +17,12 @@
 
 .body-black{
     color: white;
-    font-size: 115%;
+    font-size: 150%;
 }
 
 .body{
     color: black;
-    font-size: 115%;
+    font-size: 150%;
 }
 
 h1{
@@ -31,7 +31,7 @@ h1{
 }
 
 h2{
-    font-size: 200%;
+    font-size: 225%;
 }
 
 .title-black{
@@ -57,7 +57,7 @@ h3{
 figure{
     grid-column-start: 2;
     grid-column-end: 3;
-    height: 400px;
+    height: 80%;
     padding: 2.5rem 0rem;
     margin: 2.5rem 0rem;
     display: flex;
