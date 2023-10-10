@@ -57,7 +57,7 @@ h3{
 figure{
     grid-column-start: 2;
     grid-column-end: 3;
-    height: 80%;
+    height: 75%;
     padding: 2.5rem 0rem;
     margin: 2.5rem 0rem;
     display: flex;
