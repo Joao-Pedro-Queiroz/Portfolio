@@ -194,3 +194,22 @@ figure{
     padding: 0.5rem 0.3rem 0.2rem 0rem;
     margin: 0.5Rem 0.3rem 0.2rem 0rem;
 }
+
+footer{
+    background-color: rgb(38, 37, 37);
+    color: black;
+}
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+footer img{
+    border-radius: 50%;
+    width: 3%;
+    margin: 1rem 0.2rem 1rem 0.5rem;
+    padding: 1rem 0.2rem 1rem 0.5rem;
+}
