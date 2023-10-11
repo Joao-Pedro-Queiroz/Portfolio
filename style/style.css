@@ -43,9 +43,9 @@ h2{
 }
 
 h3{
-    font-size: 150%;
-    padding: 0.2rem 0rem 0.1rem;
-    margin: 0.2rem 0rem 0.1rem;
+    font-size: 168%;
+    padding: 0.3rem 0rem 0.2rem;
+    margin: 0.3rem 0rem 0.2rem;
 }
 
 .black-first{
@@ -97,6 +97,7 @@ figure{
 
 .informations{
     width: 45%;
+    font-style: italic;
 }
 
 .about{
@@ -183,12 +184,13 @@ figure{
     display: flex;
     flex-direction: column;
     align-items: flex-end;
+    width: 5%;
 }
 
 .icon{
     border-radius: 25%;
     height: 35%;
-    width: 17%;
-    padding: 0.1rem 0.3rem 0.5rem 0rem;
-    margin: 0.1rem 0.3rem 0.5rem 0rem;
+    width: 80%;
+    padding: 0.5rem 0.3rem 0.2rem 0rem;
+    margin: 0.5Rem 0.3rem 0.2rem 0rem;
 }
