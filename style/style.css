@@ -213,3 +213,7 @@ footer img{
     margin: 1rem 0.2rem 1rem 0.5rem;
     padding: 1rem 0.2rem 1rem 0.5rem;
 }
+
+footer p{
+    font-size: 125%;
+}
