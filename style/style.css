@@ -187,12 +187,14 @@ figure{
     width: 5%;
 }
 
+.link1{
+    margin: 1.1rem 0.2rem 0.4rem 0rem;
+}
+
 .icon{
     border-radius: 25%;
     height: 35%;
     width: 80%;
-    padding: 0.5rem 0.3rem 0.2rem 0rem;
-    margin: 0.5Rem 0.3rem 0.2rem 0rem;
 }
 
 footer{
